@@ -67,7 +67,7 @@
 }
 
 .person1{
-  background-image: url("disegniBatti/person1.png");  
+  background-image: url("images/person1.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
@@ -77,7 +77,7 @@
 }
 
 .person2{
-  background-image: url("disegniBatti/person2.png");  
+  background-image: url("images/person2.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
@@ -87,7 +87,7 @@
 }
 
 .elephant{
-  background-image: url("disegniBatti/elephant.png");  
+  background-image: url("images/elephant.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
@@ -97,7 +97,7 @@
 }
 
 .tower{
-  background-image: url("disegniBatti/tower.png");  
+  background-image: url("images/tower.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
@@ -127,7 +127,7 @@
 }
 
 .figura{
-  background-image: url("disegniBatti/figura.png");  
+  background-image: url("images/figura.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
