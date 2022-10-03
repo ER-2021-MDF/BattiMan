@@ -24,48 +24,6 @@
 	width: 15%;
 }
 
-.palazziA{
-  background-image: url("disegniBatti/palazziA.png");  
-  display:inline-block;
-  background-position:center;
-  background-size:contain;
-  background-repeat:no-repeat;
-  position:absolute;
-  left:110%;
-}
-
-.palazziB{
-  background-image: url("disegniBatti/palazziB.png");  
-  display:inline-block;
-  background-position:center;
-  background-size:contain;
-  background-repeat:no-repeat;
-  position:absolute;
-  left:125%;
-}
-
-.palazziC{
-  background-image: url("disegniBatti/palazziA.png");  
-  display:inline-block;
-  background-position:center;
-  background-size:contain;
-  background-repeat:no-repeat;
-  position:absolute;
-  left:100%;
-  background-color:yellow;
-}
-
-.palazziD{
-  background-image: url("disegniBatti/palazziB.png");  
-  display:inline-block;
-  background-position:center;
-  background-size:contain;
-  background-repeat:no-repeat;
-  position:absolute;
-  left:115%;
-  background-color:blue;
-}
-
 .person1{
   background-image: url("images/person1.png");  
   display:inline-block;
@@ -106,26 +64,6 @@
   left:140%;
 }
 
-.palazziC{
-  background-image: url("disegniBatti/palazziA.png");  
-  display:inline-block;
-  background-position:center;
-  background-size:contain;
-  background-repeat:no-repeat;
-  position:absolute;
-  left:140%;
-}
-
-.palazziD{
-  background-image: url("disegniBatti/palazziB.png");  
-  display:inline-block;
-  background-position:center;
-  background-size:contain;
-  background-repeat:no-repeat;
-  position:absolute;
-  left:155%;
-}
-
 .figura{
   background-image: url("images/figura.png");  
   display:inline-block;
@@ -137,7 +75,7 @@
 }
 
 .palla{
-  background-image: url("disegniBatti/palla.png");  
+  background-image: url("images/palla.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
@@ -147,7 +85,7 @@
 }
 
 .destra{
-  background-image: url("disegniBatti/destra.png");  
+  background-image: url("images/destra.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
@@ -157,7 +95,7 @@
 }
 
 .sinistra{
-  background-image: url("disegniBatti/sinistra.png");  
+  background-image: url("images/sinistra.png");  
   display:inline-block;
   background-position:center;
   background-size:contain;
