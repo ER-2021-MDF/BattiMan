@@ -1,7 +1,7 @@
 @media only screen and (max-width: 767px){
 
 body{
-	background-color:green;
+	background-color:seagreen;
 	min-width: 353px;
 	max-width: 760px;
 	overflow-X:hidden;
@@ -98,7 +98,7 @@ section{
     font-family: "Oswald", sans-serif;
     margin-bottom:5%;
     font-size: 4em;
-    color:red;
+    color:seagreen;
 	backface-visibility:hidden;
     text-align: center;
     box-shadow: 0px 0px 10px 1px black;
@@ -135,7 +135,7 @@ section{
 	font-family: "Oswald", sans-serif;
     margin-bottom:5%;
     font-size: 4em;
-    color:green;
+    color:seagreen;
     text-align: center;
     box-shadow: 0px 0px 10px 1px black;
     writing-mode: horizontal-tb;
