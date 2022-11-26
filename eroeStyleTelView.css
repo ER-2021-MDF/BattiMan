@@ -122,7 +122,7 @@ section{
 .mission3{
   cursor:pointer;
   margin-top:163%;
-  display:none;
+  //display:none;
   }
 	
 .mission4{
@@ -172,7 +172,7 @@ section{
   cursor:pointer;
   transform: rotateY(180deg);
   margin-top:163%;
-  display:none;
+  //display:none;
 }
 	
 .mission4b{
